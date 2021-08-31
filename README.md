@@ -6,4 +6,4 @@ and a button. Once the button is clicked another message will pop-up on your com
 X button on the original window, the application will terminate.
 
 ![Image Couldn't Load](doorbell-1.PNG)
-![Image Couldn't Load](doorbell-2.PNG)
+![Image Couldn't Load](doorbell-2.png)
